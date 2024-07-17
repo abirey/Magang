@@ -24,7 +24,7 @@ Halaman ini digunakan untuk melihat informasi-informasi yang berkaitan dengan da
 ### **7. MCU**  
   MCU digunakan untuk menyimpan data Medical Check Up yang berupa file excel. Petugas dapat melihat total pasien dan mengekspor excel.  
 ### **8. Antrian**  
-  Fitur untuk melihat daftar antrian pasien, tes sample dan lainnya.  
+  Fitur untuk melihat daftar antrian pasien, tes sampel dan lainnya.  
 ### **9. Laporan**   
   Laporan berisi apapun yang dilakuka terakit web LIS.
 ### **10. Quality Control**  
@@ -40,9 +40,9 @@ Untuk melihat data pasien terkait unit asal mereka.
 ### **15. Data Dihapus**  
 Pada bagian ini digunakan untuk melihat semua data yang dihapus.  
 ### **16. Log**  
-Log fdigunakan untuk melihat segala aktivitas yang terjadi di dalam web.  
+Log digunakan untuk melihat segala aktivitas yang terjadi di dalam web.  
 ### **17. Validasi**  
-  Fitur untuk dokter memvalidasi dari data hasil lab pasien yang sudha terverifikasi.  
+  Fitur untuk dokter memvalidasi dari data hasil lab pasien yang sudah terverifikasi.  
    
 # Adameds
 > [!NOTE]
