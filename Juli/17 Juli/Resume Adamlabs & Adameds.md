@@ -42,7 +42,7 @@ Pada bagian ini digunakan untuk melihat semua data yang dihapus.
 ### **16. Log**  
 Log digunakan untuk melihat segala aktivitas yang terjadi di dalam web.  
 ### **17. Validasi**  
-  Fitur untuk dokter memvalidasi dari data hasil lab pasien yang sudah terverifikasi.  
+  Fitur untuk melihat hasil verifikasi dokter yang dilakukan melalui Expertise.  
    
 # Adameds
 > [!NOTE]
@@ -75,3 +75,21 @@ Bagian ini berisi laporan segala informasi keuangan rumah sakit, seperti pembaya
 ### 11. Laporan
 [belUm bisa dibuka]
 
+
+# Expertise
+Expertise adalah aplikasi mobile yang terintegrasi dengan Adamlabs untuk melihat data-data pasien. Fitur di dalam Expertise akan dijelaskan di bawah ini.
+
+### 1. Home
+Page home digunakan sebagai halaman utama aplikasi yang menampilkan rangkuman(total) dari data pasien yang belum diproses, sedang diproses, dan pasien yang sudah diproses. Terdapat grafik untuk menampilkan pasien berdasarkan jenis kelamin, kunjungan pasien reguler perbulan, dan hasil diagnosis yang paling sering terdeteksi.
+### 2. Pasien
+Pada page pasien terdapat tiga bagian yaitu belum, proses, dan selesai. Page ini digunakan untuk melihat hasil tes laboratorium pada pasien. Data-data ini dimasukkan oleh admin melalui web adamlabs.
+### 3. Expertise
+Page ini akan menampilkan data pasien yang telah selesai dilakukan pemeriksaan dan diinputkan hasil tes labnya. Dokter akan memverifikasi hasil dan menambahkan catatan. Saat verifikasi berhasil, data validasi bisa dilihat melalui Adamlabs.
+### 4. Akun
+Page ini digunakan untuk melihat akun pengguna dan untuk logout
+### 5. Laporan
+Page ini diakses melalui drawer untuk melihat preview harian kunjungan pasien, kunjungan ruangan, pemeriksaan, pemeriksaan kritis, pasien cito, dan keseluruhan waktu TAT.
+### 6. Arsip 
+Page yang diakses melalui drawer juga ini digunakan untuk melihat data pasien yang diarsipkan dari web Adamlabs.
+### 7. Kebijakan Privasi, Syarat dan Ketentuan, dan Info Update
+Ketiga fitur ini digunakan sebagai media informasi kebijakan yang diterapkan oleh Adamlabs, syarat dan ketentuan yang diterapkan oleh Adamlabs, dan sebagai informasi hal yang diupdate tiap versinya.
